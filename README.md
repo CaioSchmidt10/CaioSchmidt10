@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning CSS3 & JS
+- 🌱 I’m currently learning JS & React
 
 <div align="center">
   <a href="https://github.com/CaioSchmidt10">
