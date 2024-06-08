@@ -23,6 +23,6 @@ Thank you for stopping by my GitHub profile! I am a 20-year-old, studying system
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caioschmidt10a&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔎 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-schmidt-vasconcelos-63423b252/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-schmidt-vasconcelos-63423b252/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caioschmidt10/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:caioschmidtcdc@gmail.com)
