@@ -18,7 +18,7 @@ Thank you for stopping by my GitHub profile! I am a 20-year-old with a Bachelor'
 
 
 # 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=caioschmidt10a&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=caioschmidt10&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caioschmidt10&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caioschmidt10a&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
