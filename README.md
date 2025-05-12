@@ -2,8 +2,8 @@
 
 Thank you for stopping by my GitHub profile! I am a 20-year-old, studying systems analysis and development and a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
 
-- 💻 I’m currently working on "Angular"
-- 🌱 I’m currently learning about Angular & JS
+- 💻 I’m currently working on "SAP ABAP"
+- 🌱 I’m currently learning about SAP
 - 👔 I’m looking to collaborate with Typescript/React
 - 📬 How to reach me: caioschmidtcdc@gmail.com
 - 💡Feel free to inquire about accessibility, cybersecurity, full-stack development, web development, or any topic you'd like!
